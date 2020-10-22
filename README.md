@@ -1,4 +1,5 @@
 
+[npm taobao镜像](https://blog.csdn.net/shangrila_kun/article/details/89633374)
 
 
 ```
