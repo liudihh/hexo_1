@@ -1,6 +1,6 @@
 
-[npm taobao镜像](https://blog.csdn.net/shangrila_kun/article/details/89633374)
-<a href="https://blog.csdn.net/shangrila_kun/article/details/89633374" target="_blank" >npm taobao镜像</a>
+[npm taobao镜像](https://blog.csdn.net/shangrila_kun/article/details/89633374){:target="_blank"}
+
 
 
 ```
